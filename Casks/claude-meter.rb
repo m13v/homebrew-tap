@@ -1,6 +1,6 @@
 cask "claude-meter" do
-  version "0.3.1"
-  sha256 "68383276f675a8d8673faf541f511771806d39a85c4a8dbdf984c7fc934cfa44"
+  version "0.3.2"
+  sha256 "f8808647f22ef3431479108e06165eec8bc5fff4ce47edc8bf649d5d9fc44f25"
 
   url "https://github.com/m13v/claude-meter/releases/download/v#{version}/ClaudeMeter-#{version}.zip",
       verified: "github.com/m13v/claude-meter/"
